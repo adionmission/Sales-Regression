@@ -1,5 +1,9 @@
 # Sales Regression
 
+![GitHub License](https://img.shields.io/github/license/adionmission/Sales-Regression)
+![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/Sales-Regression)
+![GitHub repo size](https://img.shields.io/github/repo-size/adionmission/Sales-Regression)
+
 Regression of sales data from two different datasets.
 
 ## Tech Stack

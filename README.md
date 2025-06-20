@@ -4,7 +4,7 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/Sales-Regression)
 ![GitHub repo size](https://img.shields.io/github/repo-size/adionmission/Sales-Regression)
 
-Regression of sales data from two different datasets.
+Predicting and analyzing sales trends using regression techniques on sales data. This project applies machine learning models to uncover patterns and improve business forecasting.
 
 ## Tech Stack
 
